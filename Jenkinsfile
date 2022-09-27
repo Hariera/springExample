@@ -4,7 +4,7 @@ pipeline {
 	    stage('Build') {
 		   steps {
 		      sh "rm -rf springExample"
-		      sh "git clone https://github.com/awsdevops009/springExample.git"
+		      sh "git clone https://github.com/Hariera/springExample.git"
 			  sh "mvn clean "
 			  }
              }
