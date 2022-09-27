@@ -25,7 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        System.out.println("Good Morning ");
+        System.out.println("Good Morning for the day");
         System.out.println("Hi Morning ");
         System.out.println("Hi How are You ");
         System.out.println("HiI am fine ");
